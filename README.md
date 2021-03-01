@@ -15,3 +15,6 @@ create a new file in the folder, it gets a "U" to mean it's untracked. You'll ha
 5. Finally, when you use `git commit -m "Meaningful message here" -m "Longer description here"`, you should supply a meaningful message after the first "-m" which will populate the title bit of the commit. To add a longer description, you can optionally add another "-m" then explain what you need to explain.
 
 It's not much, but I'm making progress. _Slow motion is better than no motion. Keep going!_
+
+- [ ] Check this once it shows in the repo to confirm you've seen it. Just writing this to test the `git status -s` command in the terminal.
+- [x] Making another change to understand the two colums that show up when you use short status i.e. the command above. The left column represents what's in the staging area, and the right represents what's in the working directory.
